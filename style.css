@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ffff;
+}
+
+.container {
+    width: 100%;
+    margin: 100px auto;
+    font-family: sans-serif;
+}
+p{
+    color: rgb(55, 55, 56);
+    font-family: sans-serif;
+    text-align: justify;
+    padding: 10px;
+    display: none;
+}
+
+.card {
+    width: 50%;
+    background-color: #ffff;
+    color: white;
+    height: 30%;
+}
+.card p {
+    background-color: rgb(233, 233, 245);
+}
+.header {
+    background-color: rgb(183, 183, 233);
+    font-size: 25px;
+    align-items: last baseline;
+    cursor: pointer;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.card1 {
+    width: 50%;
+    background-color: #ffff;
+    color: white;
+    height: 30%;
+    padding-top: 15px;
+}
+.card1 p{
+    background-color: rgb(233, 220, 213);
+}
+.header1 {
+    background-color: rgb(226, 182, 159);
+    font-size: 25px;
+    cursor: pointer;
+    padding: 15px;
+    align-items: last baseline;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.card2 {
+    width: 50%;
+    background-color: #ffff;
+    color: white;
+    height: 30%;
+    padding-top: 15px;
+}
+.card2 p{
+    background-color: rgb(235, 238, 216);
+}
+.header2 {
+    background-color: rgb(232, 241, 178);
+    font-size: 25px;
+    cursor: pointer;
+    padding: 15px;
+    align-items: last baseline;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.card3 {
+    width: 50%;
+    background-color: #ffff;
+    color: white;
+    height: 30%;
+    padding-top: 15px;
+}
+.card3 p {
+    background-color: rgb(231, 240, 245);
+}
+.header3 {
+    background-color: rgb(154, 208, 233);
+    font-size: 25px;
+    cursor: pointer;
+    padding: 15px;
+    align-items: last baseline;
+    display: flex;
+    justify-content: space-between;
+}
